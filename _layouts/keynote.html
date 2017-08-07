@@ -46,7 +46,7 @@ layout: default
                         {% comment %} if page.subtitle {% endcomment %}
                         <h2 class="subheading">{{ page.subtitle }}</h2>
                         {% comment %} endif {% endcomment %}
-                        <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                        <span class="meta">ارسال شده توسط {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} در {{ page.date | date: "%B %-d, %Y" }}</span>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@ layout: default
                     {% if page.previous.url %}
                     <li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">
-                        Previous<br>
+                        مطلب قبلی<br>
                         <span>{{page.previous.title}}</span>
                         </a>
                     </li>
@@ -80,7 +80,7 @@ layout: default
                     {% if page.next.url %}
                     <li class="next">
                         <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">
-                        Next<br>
+                        مطلب بعدی<br>
                         <span>{{page.next.title}}</span>
                         </a>
                     </li>
@@ -161,7 +161,6 @@ layout: default
 
 
 {% if site.disqus_username %}
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus_username}}";
