@@ -10,4 +10,4 @@ tags:
  سلام علیکم 
 ---
 
-![image-title-here](https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/1.jpg){width=200px}
+![image-title-here](https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/1.jpg){:style="width=100px"}
