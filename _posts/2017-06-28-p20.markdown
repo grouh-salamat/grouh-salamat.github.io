@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "عکس"
+subtitle:   ""
+date:       2017-06-28 13:00:00
+author:     "قاسمی"
+header-img: "img/home-bg.jpg"
+catalog: true
+tags:
+ سلام علیکم 
+---
+
+ وب سایت گروه سلامت به نشانی gsqom.ir راه اندازی شد.
+برای ارتباط با مدیریت وب سایت به آدرس ایمیل gsqom.ir@gmail.com مطالب خود را ارسال کنید.
+
+
+با سپاس فراوان
