@@ -10,7 +10,7 @@ tags:
  سلام علیکم 
 ---
 
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/1.jpg">
+
 
 <img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/2.jpg">
 
