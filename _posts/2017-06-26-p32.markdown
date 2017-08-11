@@ -4,7 +4,7 @@ title:      "بوستان کوکب "
 subtitle:   ""
 date:       2017-06-26 12:00:00
 author:     "قاسمی"
-header-img: "img/home-bg.jpg"
+header-img: "img/25.jpg"
 catalog: true
 tags:
  سلام علیکم 
