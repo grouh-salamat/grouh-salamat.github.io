@@ -10,7 +10,7 @@
   }
 }
 .sidebar-container {
-  color: #bfbfbf;
+  color: #000555;
   font-size: 14px;
 }
 .sidebar-container h5 {
@@ -29,7 +29,7 @@
   color: #0085a1 !important;
 }
 .sidebar-container .tags a {
-  border-color: #bfbfbf;
+  border-color: #000555;
 }
 .sidebar-container .tags a:hover,
 .sidebar-container .tags a:active {
