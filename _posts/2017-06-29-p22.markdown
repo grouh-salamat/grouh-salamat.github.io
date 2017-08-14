@@ -10,9 +10,9 @@ tags:
  سلام علیکم 
 ---
 
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/2.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/4.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/8.jpg">
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/2.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/2.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/4.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/4.jpg"></a>
+<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/8.jcpg">
 <img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/10.jpg">
 <img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/7.jpg">
 <img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/6.jpg">
