@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "بوستان شهید بنیادی"
-subtitle:   ""
+subtitle:   "برنامه ها وتصاویر"
 date:       2017-06-26 12:00:00
 author:     "قاسمی"
 header-img: "img/images.jpg"
@@ -10,17 +10,17 @@ tags:
  سلام علیکم 
 ---
 
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/32.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/29.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/26.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/27.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/28.jpg">
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/32.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/32.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/29.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/29.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/26.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/26.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/27.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/27.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/28.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/28.jpg"></a>
 
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/33.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/34.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/35.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/36.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/37.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/38.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/39.jpg">
-<img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/12.jpg">
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/33.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/33.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/34.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/34.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/35.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/35.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/36.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/36.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/37.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/37.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/38.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/38.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/39.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/39.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/12.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/12.jpg"></a>
