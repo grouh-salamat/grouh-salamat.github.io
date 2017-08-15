@@ -2,7 +2,7 @@
 layout:     post
 title:      "بسم الله الرحمن الرحیم "
 subtitle:   "یاعلی گفتیم وعشق آغاز شد ـ زاد روز تولد حضرت معصومه رابه تمام مسلمین جهان  تبریک می گوییم "
-date:       2017-08-21 14:00:00
+date:       2017-08-21 12:00:00
 author:     "قاسمی"
 header-img: "img/download.jpg"
 catalog: true
