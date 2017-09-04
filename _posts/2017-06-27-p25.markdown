@@ -28,4 +28,4 @@ tags:
 
 
 
-<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/images (1).jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/images (1).jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/52.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/52.jpg"></a>
