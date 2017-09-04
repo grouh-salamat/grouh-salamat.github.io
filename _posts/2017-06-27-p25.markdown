@@ -2,7 +2,7 @@
 layout:     post
 title:      "فواید ورزش صبحگاهی"
 subtitle:   "شماره یک"
-date:       2017-06-27 09:50:00
+date:       2017-06-27 12:10:00
 author:     "قاسمی"
 header-img: "img/images.jpg"
 catalog: true
@@ -11,6 +11,7 @@ tags:
 ---
 
 فواید ورزش صبحگاهی و اثرات مفید آن بر زندگی
+
 ورزش صبحگاهی در شروع فعالیت ها  می تواند عـامل مهمی در ایجـاد نشاط و شـادابی وتأمین سـلامت جسم و روح افراد باشد.
 
 این برنامه با توجه به ویژگیهایی خاص آن در ۳ بخش گـرم کردن ، پیـاده کـردن هـدف و بازگشت به حـالت اولیه طـراحی می گردد ، انجام این برنامه در ابتـدا بـا افـزایش تـدریجی ضربـان قلب توأم است که به آستانه تحریک برای افزایش استقامت عمومی می رسد و سرانجام به حالت اولیه بر می گردد .
@@ -27,4 +28,4 @@ tags:
 
 
 
-<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/2.jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/2.jpg"></a>
+<a href="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/images(1).jpg"><img style="float: right;width=100px;height:100px" src="https://github.com/grouh-salamat/grouh-salamat.github.io/raw/master/img/images(1).jpg"></a>
