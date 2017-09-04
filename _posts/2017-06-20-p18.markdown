@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "ورزش وسلامت روان1 "
-subtitle:   ""
-date:       2017-06-27 12:00:00
+title:      "ورزش وسلامت روان "
+subtitle:   "شماره یک"
+date:       2017-06-20 12:01:00
 author:     "قاسمی"
 header-img: "img/images.jpg"
 catalog: true
