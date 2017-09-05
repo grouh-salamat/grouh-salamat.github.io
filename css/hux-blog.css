@@ -1,12 +1,12 @@
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
-    padding-right: 5%;
+    padding-right: 0%;
   }
 }
 @media (min-width: 768px) {
   .post-container {
-    padding-right: 5%;
+    padding-right: 0%;
   }
 }
 .sidebar-container {
@@ -56,7 +56,6 @@
   overflow: auto;
   height: 100%;
   padding-bottom: 40px;
-  width: 195px;
 }
 .side-catalog.fixed {
   position: fixed;
@@ -89,7 +88,6 @@
 }
 .side-catalog .catalog-body li a {
   padding-left: 10px;
-  max-width: 180px;
   display: inline-block;
   vertical-align: middle;
   height: 30px;
