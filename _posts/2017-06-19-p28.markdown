@@ -4,7 +4,7 @@ title:      "کدام ورزش ؟"
 subtitle:   "تناسب فرد باورزشی که انجام می دهد"
 date:       2017-06-26 12:00:00
 author:     "قاسمی"
-header-img: "img/imaiges.jpg"
+header-img: "img/images.jpg"
 catalog: true
 tags:
  سلام علیکم 
