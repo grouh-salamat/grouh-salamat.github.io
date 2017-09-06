@@ -69,6 +69,7 @@ netease_comment: false
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "وب سایت گروه سلامت استان قم<br/>گروه مردمی ورزش صبحگاهی استان قم :عیدسعیدغدیر خم  رابه همه مسلمانان جهان تبریک عرض  می نماییم"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/53.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
