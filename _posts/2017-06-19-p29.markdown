@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "تغذیه"
+title:      "تغذیه 1"
 subtitle:   "بایدها ونبایدهای تغذیه ورزشی"
 date:       2017-06-19 24:00:00
 author:     "قاسمی"
 header-img: "img/images.jpg"
 catalog: true
 tags:
- سلام علیکم 
+ یارحمن 
 ---
 
 باید و نباید های تغذیه ورزشی
