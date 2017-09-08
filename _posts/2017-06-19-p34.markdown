@@ -7,7 +7,6 @@ author:     "قاسمی"
 header-img: "img/images.jpg"
 catalog: true
 tags:
- 
 هو الشافی
 ---
 
