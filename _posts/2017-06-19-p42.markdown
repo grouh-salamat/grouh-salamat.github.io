@@ -2,7 +2,7 @@
 layout:     post
 title:      "ورزش درسنین مختلف"
 subtitle:   "ورزش های مناسب برای دوره های مختلف زندگی"
-date:       2017-06-19 08:550:00
+date:       2017-06-19 08:55:00
 author:     "قاسمی"
 header-img: "img/images.jpg"
 catalog: true
