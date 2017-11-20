@@ -67,7 +67,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-avatar: /img/59.jpg      # use absolute URL, seeing it's used in both `/` and `/about/
+sidebar-avatar: /img/53.jpg      # use absolute URL, seeing it's used in both `/` and `/about/
 
 sidebar-about-description: " گروه سلامت استان قم<br/> "
 
